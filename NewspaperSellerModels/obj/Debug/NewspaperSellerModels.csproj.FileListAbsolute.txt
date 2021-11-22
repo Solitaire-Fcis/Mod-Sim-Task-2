@@ -30,3 +30,9 @@ C:\Users\Osama\Desktop\[InventorySimulation]_Class Library\NewspaperSellerSimula
 C:\Users\Osama\Desktop\[InventorySimulation]_Class Library\NewspaperSellerSimulation_Students\NewspaperSellerModels\bin\Debug\NewspaperSellerModels.pdb
 C:\Users\Osama\Desktop\[InventorySimulation]_Class Library\NewspaperSellerSimulation_Students\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.dll
 C:\Users\Osama\Desktop\[InventorySimulation]_Class Library\NewspaperSellerSimulation_Students\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.pdb
+D:\University\4th\Projects & Tasks\Simulation\Mod-Sim-Task-2\NewspaperSellerModels\bin\Debug\NewspaperSellerModels.dll
+D:\University\4th\Projects & Tasks\Simulation\Mod-Sim-Task-2\NewspaperSellerModels\bin\Debug\NewspaperSellerModels.pdb
+D:\University\4th\Projects & Tasks\Simulation\Mod-Sim-Task-2\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.csprojAssemblyReference.cache
+D:\University\4th\Projects & Tasks\Simulation\Mod-Sim-Task-2\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.csproj.CoreCompileInputs.cache
+D:\University\4th\Projects & Tasks\Simulation\Mod-Sim-Task-2\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.dll
+D:\University\4th\Projects & Tasks\Simulation\Mod-Sim-Task-2\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.pdb
