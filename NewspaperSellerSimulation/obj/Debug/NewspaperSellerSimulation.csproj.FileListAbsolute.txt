@@ -125,3 +125,29 @@ D:\University\4th\Projects & Tasks\Simulation\Mod-Sim-Task-2\NewspaperSellerSimu
 D:\University\4th\Projects & Tasks\Simulation\Mod-Sim-Task-2\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csproj.CopyComplete
 D:\University\4th\Projects & Tasks\Simulation\Mod-Sim-Task-2\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.exe
 D:\University\4th\Projects & Tasks\Simulation\Mod-Sim-Task-2\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.pdb
+C:\Users\there\Downloads\Mod-Sim-Task-2-main\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.exe.config
+C:\Users\there\Downloads\Mod-Sim-Task-2-main\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.exe
+C:\Users\there\Downloads\Mod-Sim-Task-2-main\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.pdb
+C:\Users\there\Downloads\Mod-Sim-Task-2-main\NewspaperSellerSimulation\bin\Debug\NewspaperSellerModels.dll
+C:\Users\there\Downloads\Mod-Sim-Task-2-main\NewspaperSellerSimulation\bin\Debug\NewspaperSellerModels.pdb
+C:\Users\there\Downloads\Mod-Sim-Task-2-main\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csprojAssemblyReference.cache
+C:\Users\there\Downloads\Mod-Sim-Task-2-main\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.Form1.resources
+C:\Users\there\Downloads\Mod-Sim-Task-2-main\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.Properties.Resources.resources
+C:\Users\there\Downloads\Mod-Sim-Task-2-main\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csproj.GenerateResource.cache
+C:\Users\there\Downloads\Mod-Sim-Task-2-main\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csproj.CoreCompileInputs.cache
+C:\Users\there\Downloads\Mod-Sim-Task-2-main\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csproj.CopyComplete
+C:\Users\there\Downloads\Mod-Sim-Task-2-main\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.exe
+C:\Users\there\Downloads\Mod-Sim-Task-2-main\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.pdb
+E:\Work\FCIS\4th Year\CS\Modeling and Simulation\Tasks\Mod-Sim-Task-2-main\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.exe.config
+E:\Work\FCIS\4th Year\CS\Modeling and Simulation\Tasks\Mod-Sim-Task-2-main\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.exe
+E:\Work\FCIS\4th Year\CS\Modeling and Simulation\Tasks\Mod-Sim-Task-2-main\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.pdb
+E:\Work\FCIS\4th Year\CS\Modeling and Simulation\Tasks\Mod-Sim-Task-2-main\NewspaperSellerSimulation\bin\Debug\NewspaperSellerModels.dll
+E:\Work\FCIS\4th Year\CS\Modeling and Simulation\Tasks\Mod-Sim-Task-2-main\NewspaperSellerSimulation\bin\Debug\NewspaperSellerModels.pdb
+E:\Work\FCIS\4th Year\CS\Modeling and Simulation\Tasks\Mod-Sim-Task-2-main\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csprojAssemblyReference.cache
+E:\Work\FCIS\4th Year\CS\Modeling and Simulation\Tasks\Mod-Sim-Task-2-main\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.Form1.resources
+E:\Work\FCIS\4th Year\CS\Modeling and Simulation\Tasks\Mod-Sim-Task-2-main\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.Properties.Resources.resources
+E:\Work\FCIS\4th Year\CS\Modeling and Simulation\Tasks\Mod-Sim-Task-2-main\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csproj.GenerateResource.cache
+E:\Work\FCIS\4th Year\CS\Modeling and Simulation\Tasks\Mod-Sim-Task-2-main\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csproj.CoreCompileInputs.cache
+E:\Work\FCIS\4th Year\CS\Modeling and Simulation\Tasks\Mod-Sim-Task-2-main\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csproj.CopyComplete
+E:\Work\FCIS\4th Year\CS\Modeling and Simulation\Tasks\Mod-Sim-Task-2-main\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.exe
+E:\Work\FCIS\4th Year\CS\Modeling and Simulation\Tasks\Mod-Sim-Task-2-main\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.pdb

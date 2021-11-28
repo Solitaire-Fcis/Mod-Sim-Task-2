@@ -41,6 +41,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="prob.cs" />
+    <Compile Include="Generate.cs" />
+    <Compile Include="Sales.cs" />
     <Compile Include="DayTypeDistribution.cs" />
     <Compile Include="DemandDistribution.cs" />
     <Compile Include="Enums.cs" />

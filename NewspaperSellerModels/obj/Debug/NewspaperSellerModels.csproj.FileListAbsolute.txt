@@ -36,3 +36,13 @@ D:\University\4th\Projects & Tasks\Simulation\Mod-Sim-Task-2\NewspaperSellerMode
 D:\University\4th\Projects & Tasks\Simulation\Mod-Sim-Task-2\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.csproj.CoreCompileInputs.cache
 D:\University\4th\Projects & Tasks\Simulation\Mod-Sim-Task-2\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.dll
 D:\University\4th\Projects & Tasks\Simulation\Mod-Sim-Task-2\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.pdb
+C:\Users\there\Downloads\Mod-Sim-Task-2-main\NewspaperSellerModels\bin\Debug\NewspaperSellerModels.dll
+C:\Users\there\Downloads\Mod-Sim-Task-2-main\NewspaperSellerModels\bin\Debug\NewspaperSellerModels.pdb
+C:\Users\there\Downloads\Mod-Sim-Task-2-main\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.csproj.CoreCompileInputs.cache
+C:\Users\there\Downloads\Mod-Sim-Task-2-main\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.dll
+C:\Users\there\Downloads\Mod-Sim-Task-2-main\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.pdb
+E:\Work\FCIS\4th Year\CS\Modeling and Simulation\Tasks\Mod-Sim-Task-2-main\NewspaperSellerModels\bin\Debug\NewspaperSellerModels.dll
+E:\Work\FCIS\4th Year\CS\Modeling and Simulation\Tasks\Mod-Sim-Task-2-main\NewspaperSellerModels\bin\Debug\NewspaperSellerModels.pdb
+E:\Work\FCIS\4th Year\CS\Modeling and Simulation\Tasks\Mod-Sim-Task-2-main\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.csproj.CoreCompileInputs.cache
+E:\Work\FCIS\4th Year\CS\Modeling and Simulation\Tasks\Mod-Sim-Task-2-main\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.dll
+E:\Work\FCIS\4th Year\CS\Modeling and Simulation\Tasks\Mod-Sim-Task-2-main\NewspaperSellerModels\obj\Debug\NewspaperSellerModels.pdb
